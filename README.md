@@ -2,7 +2,7 @@
 
 **Azure Identity & Integration Architect** | 14+ Years Enterprise Cloud Experience
 
-Live at: `https://mohitkakkar87.github.io/portfolio/` (after GitHub Pages setup)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Click%20to%20Browse-0078d4?style=for-the-badge&logo=github)](https://mohitkakkar87.github.io/portfolio/)
 
 ---
 
